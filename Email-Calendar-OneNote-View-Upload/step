@@ -1,0 +1,5 @@
+// url : https://learn.microsoft.com/en-us/training/modules/msgraph-dotnet-core-access-user-events/3-connect-app
+// github : git clone https://github.com/microsoftdocs/mslearn-m365-microsoftgraph-dotnetcorerazor.git
+
+// Teknologi : Asp.net MVC 6  , msgraphh-api , AzureAd/
+// Fungsi : Baca Email Outlook, baca Calendar, read File & Upload Onedrive
